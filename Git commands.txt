@@ -9,3 +9,4 @@ working area
 - git commit - giving the message
 - git log - to see the commits
 - git checkout <commit id> - to move the head/cursur to previous or another commit which i want
+-
