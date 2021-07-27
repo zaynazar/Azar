@@ -5,4 +5,5 @@ Staging/Index
 local repo
 working area
 
-- git add -
+- git add - adding to staging
+- git commit - giving the message
