@@ -1,5 +1,6 @@
-- git init - 
-- git status -
+- git init - To initialize or reinitialize the repo
+- git status - To see status and modification of local repo
+- git --help - Help desk
 
 Staging/Index
 local repo
