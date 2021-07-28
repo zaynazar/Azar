@@ -15,3 +15,4 @@ working area
 - git remote add origin https://github.com/zaynazar/Azar.git - To connect with remote repository
 - git remote -v - gives the origin variable and its value
 - git push <where you need to push, i.e, Origin> <Branch>
+----------------------------------------------------------------
