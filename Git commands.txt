@@ -17,3 +17,4 @@ working area
 - git remote -v - gives the origin variable and its value
 - git push <where you need to push, i.e, Origin> <Branch>
 ----------------------------------------------------------------
+- git clone https://github.com/zaynazar/Azar.git - 
